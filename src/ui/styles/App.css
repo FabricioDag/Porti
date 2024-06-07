@@ -1,0 +1,67 @@
+/* Avaliar se é a melhor abordagem */
+body {
+  background-color: rgb(183, 206, 228);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Representa a tela do celular */
+.Container {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.fixedTopOS,
+.fixedBotOS {
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Home {
+  border: 2px solid green;
+  width: 300px;
+  background-color: rgb(131, 100, 190);
+}
+
+.page {
+  display: grid;
+  
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  justify-content: space-between;
+  height: 400px;
+  padding-bottom: 1rem;
+}
+
+.mainApps {
+  border: 2px solid rgb(76, 44, 214);
+  height: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  justify-content: space-between;
+}
+
+.weather {
+  border: 2px solid red;
+}
+
+.clock {
+  border: 2px solid green;
+}
+
+.notification {
+  border: 2px solid yellow;
+}
+
+.app {
+  border: 2px solid purple;
+}

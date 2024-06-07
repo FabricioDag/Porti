@@ -1,0 +1,120 @@
+{
+  "aplicativos": [
+    {
+      "nome": "Calculator",
+      "icone": "src/ui/icons/Calculator.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Clock",
+      "icone": "src/ui/icons/Clock.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "Settings",
+      "icone": "src/ui/icons/Gear.svg",
+      "tipo": "competência"
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "competência"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "competência"
+    },
+    {
+      "nome": "App",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "aplicação"
+    }
+  ],
+  "competencias": [
+    {
+      "nome": "React",
+      "icone": "src/ui/icons/React.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Node",
+      "icone": "src/ui/icons/Node.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "Sass",
+      "icone": "src/ui/icons/Sass.svg",
+      "tipo": "competência"
+    },
+    {
+      "nome": "Angular",
+      "icone": "src/ui/icons/Angular.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Git",
+      "icone": "src/ui/icons/Git.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "Github",
+      "icone": "src/ui/icons/Github.svg",
+      "tipo": "competência"
+    },
+    {
+      "nome": "Html",
+      "icone": "src/ui/icons/Html.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Css",
+      "icone": "src/ui/icons/Css.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Database",
+      "icone": "src/ui/icons/Database.svg",
+      "tipo": "aplicação"
+    }
+  ],
+  "fixos": [
+    {
+      "nome": "About",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "aplicação"
+    },
+    {
+      "nome": "Contact",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "projeto"
+    },
+    {
+      "nome": "Resumee",
+      "icone": "src/ui/icons/App.svg",
+      "tipo": "competência"
+    }
+  ]
+}
